@@ -50,37 +50,37 @@ For example you could perform the following:
 Using `setAccounts` to set the two accounts that own the contract:
 <p align="center">
 <img src="https://github.com/warp-9000/challenge-20-joint-savings-smart-contract/blob/main/Execution_Results/Screen%20Shot%202022-10-16%20at%204.51.39%20PM%20-%20used%20setAccounts%20function.png?raw=true" 
-alt="used setAccounts function" width="75%" />
+alt="used setAccounts function" width="85%" />
 </p>
 
 Deposit 1 ether as wei to the contract:
 <p align="center">
 <img src="https://github.com/warp-9000/challenge-20-joint-savings-smart-contract/blob/main/Execution_Results/Screen%20Shot%202022-10-16%20at%204.57.35%20PM%20-%20send%201%20ether%20as%20wei.png?raw=true" 
-alt="depositing 1 ether as wei" width="75%" />
+alt="depositing 1 ether as wei" width="85%" />
 </p>
 
 Deposit 10 ether as wei to the contract:
 <p align="center">
 <img src="https://github.com/warp-9000/challenge-20-joint-savings-smart-contract/blob/main/Execution_Results/Screen%20Shot%202022-10-16%20at%204.59.13%20PM%20-%20send%2010%20ether%20as%20wei.png?raw=true" 
-alt="depositing 1 ether as wei" width="75%" />
+alt="depositing 1 ether as wei" width="85%" />
 </p>
 
 Deposit 5 ether to the contract:
 <p align="center">
 <img src="https://github.com/warp-9000/challenge-20-joint-savings-smart-contract/blob/main/Execution_Results/Screen%20Shot%202022-10-16%20at%205.00.06%20PM%20-%20send%205%20ether.png?raw=true" 
-alt="deposit 5 ether" width="75%" />
+alt="deposit 5 ether" width="85%" />
 </p>
 
 Withdraw 5 ether to `accountOne`:
 <p align="center">
 <img src="https://github.com/warp-9000/challenge-20-joint-savings-smart-contract/blob/main/Execution_Results/Screen%20Shot%202022-10-16%20at%205.02.40%20PM%20-%20withdraw%205%20ether%20to%20accountOne.png?raw=true" 
-alt="withdraw 5 ether to accountOne" width="75%" />
+alt="withdraw 5 ether to accountOne" width="85%" />
 </p>
 
 Withdraw 10 ether to `accountTwo`:
 <p align="center">
 <img src="https://github.com/warp-9000/challenge-20-joint-savings-smart-contract/blob/main/Execution_Results/Screen%20Shot%202022-10-16%20at%205.04.31%20PM%20-%20withdraw%2010%20ether%20to%20accountTwo.png?raw=true" 
-alt="withdraw 10 ether to accountTwo" width="75%" />
+alt="withdraw 10 ether to accountTwo" width="85%" />
 </p>
 
 ---
